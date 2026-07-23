@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1466
+slug  : quantum-circuit-simulator
+seal  : c56dccb7e924c9cb1e72aebe37fa48e5893105403461e093f2e672c70b4e1b02
+prev  : e4f54af4e1c9dddb4700f98ffb36f56acabe5aad418c39dcf7f66341c053b44a
+link  : c05d7c70fe8907d92846e6c939b92f7ef951f5226bd6e980cef44070bcda8d9f
+head  : 81da908eeeee6dc0e787d76afe75da66acdeaa6a0a4997bffa78dc85f5b9ccb1
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
